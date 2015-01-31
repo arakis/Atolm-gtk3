@@ -9,4 +9,4 @@ APP_DEST = ${DESTDIR}/usr/share/theme/atolm-gtk3-v2
 install:
 	install -d $(APP_DEST)
 
-	cp -r $(APP_SRC) $(APP_DEST)
+	cp -r $(APP_SRC)* $(APP_DEST)
