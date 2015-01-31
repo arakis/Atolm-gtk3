@@ -1,10 +1,10 @@
 [X-GNOME-Metatheme]
-Name=AtolmArakis
+Name=Atolm-gtk3
 Type=X-GNOME-Metatheme
-Comment=based on Atolm-gtk3
+Comment=Updated Atolm-gtk3
 Encoding=UTF-8
-GtkTheme=AtolmArakis
-MetacityTheme=AtolmArakis
+GtkTheme=Atolm-gtk3
+MetacityTheme=Atolm-gtk3
 IconTheme=gnome
-CursorTheme=AtolmArakis
+CursorTheme=Atolmgtk3
 CursorSize=24
