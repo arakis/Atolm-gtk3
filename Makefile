@@ -1,7 +1,7 @@
 #DESTDIR = /tmp/atolm
 
 APP_SRC = theme/
-APP_DEST = ${DESTDIR}/usr/share/theme/atolm-gtk3-v2
+APP_DEST = ${DESTDIR}/usr/share/themes/atolm-gtk3-v2
 #APP_DEST = $(DESTDIR)/usr/share/theme/atolm-gtk3-v2
 
 .PHONY: install
